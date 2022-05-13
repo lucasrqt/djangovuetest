@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+@font-face {
+    src: url(FiraMono-Medium.ttf) format('truetype');
+    font-family: FiraMono-Medium;
+}
+
+body{
+    background-color: #333333;
+}
+
+#img_titre{
+    display: block;
+    width: 30%;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.bouton{
+    Background-color: #00bae9;
+    border-radius: 15px;
+    border: none;
+    display: block;
+    margin: auto;
+}
+
+.connecte{
+    margin-top: 50px;
+    font-size: 25px;
+    height: 60px;
+    width: 20%;
+}
+
+.non_connecte{
+    margin-top: 40px;
+    font-size: 15px;
+    height: 50px;
+    width: 15%;
+}
